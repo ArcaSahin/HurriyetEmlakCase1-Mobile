@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test name="Test(failed)">
+    <classes>
+      <class name="TestScenarios.MobileTest">
+        <methods>
+          <include name="selectCityPart"/>
+          <include name="selectResults"/>
+          <include name="selectBuildingAge"/>
+          <include name="selectCategoryPart"/>
+          <include name="gotoFilterSection"/>
+          <include name="selectCountyPart"/>
+        </methods>
+      </class> <!-- TestScenarios.MobileTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

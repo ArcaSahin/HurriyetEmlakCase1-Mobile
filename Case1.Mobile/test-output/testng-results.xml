@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="9" passed="9">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="52332" started-at="2021-03-21T03:24:46Z" finished-at="2021-03-21T03:25:38Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="52332" started-at="2021-03-21T03:24:46Z" finished-at="2021-03-21T03:25:38Z">
+      <class name="TestScenarios.MobileTest">
+        <test-method status="PASS" signature="mobileTest()[pri:1, instance:TestScenarios.MobileTest@5b275dab]" name="mobileTest" duration-ms="14591" started-at="2021-03-21T06:24:46Z" finished-at="2021-03-21T06:25:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mobileTest -->
+        <test-method status="PASS" signature="gotoForSalePage()[pri:2, instance:TestScenarios.MobileTest@5b275dab]" name="gotoForSalePage" duration-ms="3316" started-at="2021-03-21T06:25:00Z" finished-at="2021-03-21T06:25:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gotoForSalePage -->
+        <test-method status="PASS" signature="gotoFilterSection()[pri:3, instance:TestScenarios.MobileTest@5b275dab]" name="gotoFilterSection" duration-ms="5313" started-at="2021-03-21T06:25:04Z" finished-at="2021-03-21T06:25:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gotoFilterSection -->
+        <test-method status="PASS" signature="selectCityPart()[pri:4, instance:TestScenarios.MobileTest@5b275dab]" name="selectCityPart" duration-ms="5103" started-at="2021-03-21T06:25:09Z" finished-at="2021-03-21T06:25:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectCityPart -->
+        <test-method status="PASS" signature="selectCountyPart()[pri:5, instance:TestScenarios.MobileTest@5b275dab]" name="selectCountyPart" duration-ms="5588" started-at="2021-03-21T06:25:14Z" finished-at="2021-03-21T06:25:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectCountyPart -->
+        <test-method status="PASS" signature="selectCategoryPart()[pri:6, instance:TestScenarios.MobileTest@5b275dab]" name="selectCategoryPart" duration-ms="351" started-at="2021-03-21T06:25:20Z" finished-at="2021-03-21T06:25:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectCategoryPart -->
+        <test-method status="PASS" signature="selectBuildingAge()[pri:7, instance:TestScenarios.MobileTest@5b275dab]" name="selectBuildingAge" duration-ms="11779" started-at="2021-03-21T06:25:20Z" finished-at="2021-03-21T06:25:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectBuildingAge -->
+        <test-method status="PASS" signature="verifyFilterBar()[pri:8, instance:TestScenarios.MobileTest@5b275dab]" name="verifyFilterBar" duration-ms="3079" started-at="2021-03-21T06:25:32Z" finished-at="2021-03-21T06:25:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyFilterBar -->
+        <test-method status="PASS" signature="selectResults()[pri:9, instance:TestScenarios.MobileTest@5b275dab]" name="selectResults" duration-ms="3161" started-at="2021-03-21T06:25:35Z" finished-at="2021-03-21T06:25:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectResults -->
+      </class> <!-- TestScenarios.MobileTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
